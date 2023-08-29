@@ -1,0 +1,163 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu-1 {
+    display: flex;
+    justify-content: space-around;
+    padding: 12px;
+    background-color: #424141;
+    color: white;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+}
+
+.logo {
+    width: 120px;
+}
+
+.item {
+    margin-right: 17px;
+    padding: 12px;
+    font-size: 18px;
+}
+
+.banner-cont {
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    padding: 10px;
+    background-image: url("background.png"), linear-gradient(30deg, #000, #000);
+    color: white;
+    background-size: cover;
+
+}
+
+.banner {
+    width: 300px;
+}
+
+.ban {
+
+    width: 300px;
+}
+
+.heading {
+    font-size: 55px;
+    font-weight: 20px;
+}
+
+.description {
+    font-size: large;
+    margin-top: 20px;
+}
+
+.btn {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: red;
+    border-radius: 3px;
+    outline: none;
+}
+
+.about-us {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    margin: 30px;
+}
+
+.head-2 {
+    text-align: center;
+    font-size: 52px;
+    padding-top: 10px;
+    text-decoration: underline dotted red;
+}
+
+.photo {
+    width: 300px;
+}
+
+.sub-heading {
+    font-weight: bolder;
+    
+}
+
+.sub-heading-1 {
+   margin-top: 15px;
+   font-size: 18px;
+}
+.banner-cont-1{
+    background-image: url("background.png"),linear-gradient(45deg,#1d1919,#151313);
+}
+.heading-3{
+    color: white;
+    font-size: 52px;
+    text-align: center;
+    padding: 30px;
+   
+}
+.box{
+    height: 280px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    box-shadow: 6px 10px 50px gray ;
+    border-radius: 10px;
+}
+.icon{
+    width: 70px;
+    color: #2e2e2e;
+}
+.heading-4{
+    padding: 10px;
+}
+.btn1{
+    background-color:  #1c1b1b;
+    color: white;
+}
+.btn1:hover{
+    color: pink;
+    cursor: pointer;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.back{
+    background-color: black;
+    
+}
+.foot-img{
+    width: 200px;
+}
+.footer-back{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 120px;
+}
+.details{
+    padding: 10px;
+}
+.center{
+    text-align: center;
+    padding: 15px;
+   
+}
+.footer-back1{
+    background-color: black;
+    color: white;
+}
+
+
+
